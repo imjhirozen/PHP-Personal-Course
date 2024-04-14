@@ -29,9 +29,8 @@
         echo $_GET["password"]; 
     */
 
-    echo $_POST["username"];
+    echo $_POST["username"] . "<br>";
     echo $_POST["password"]; 
-
 
 ?>
 

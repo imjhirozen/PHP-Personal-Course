@@ -27,9 +27,9 @@ $food = array("apple", "orange", "banana", "coconut");
 // $reverse_array = array_reverse($food);
 // echo count($food);
 
-/* foreach($food as $foods){
-    echo $foods . "<br>";
-}; */
+// foreach($food as $foods){
+//     echo $foods . "<br>";
+// }; 
 
 
 $capitals = array(

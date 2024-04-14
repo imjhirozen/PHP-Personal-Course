@@ -3,8 +3,8 @@
         VARIABLE = a reusable container that hold data
                     string, integer, float, boolean
     */
-
-    $name = "string";
+    $any = null;        // any
+    $name = "ranielo";  // string
     $age = 18;          // integer
     $price = 69.69;     // float
     $isExist = true;    // boolean
